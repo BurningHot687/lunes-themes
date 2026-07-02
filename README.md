@@ -2,7 +2,8 @@
 
 A calm, middle-ground theme blending the aesthetics of the Lunar Blue VS Code extension and One Dark. Balances readability with cohesion, and remains averse to borders.
 
-![Lunes Theme Preview](preview.png)
+![Lunes Indigo Theme Preview](preview.png)
+*A screenshot of the Lunes Indigo theme in action*
 
 ## Installation
 
