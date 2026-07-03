@@ -28,9 +28,9 @@
         "ghost_element.selected": "#293654FF",
         "ghost_element.disabled": "#322C47FF",
         "text": "#dce0e5ff",
-        "text.muted": "#a9afbcff",
-        "text.placeholder": "#878a98ff",
-        "text.disabled": "#878a98ff",
+        "text.muted": "#A5A6CFFF",
+        "text.placeholder": "#898798FF",
+        "text.disabled": "#878798FF",
         "text.accent": "#74ade8ff",
         "icon": "#dce0e5ff",
         "icon.muted": "#a9afbcff",
@@ -205,7 +205,7 @@
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#4F89B0FF",
+            "color": "#6e94afff",
             "font_style": "italic",
             "font_weight": null
           },
@@ -225,7 +225,7 @@
             "font_weight": null
           },
           "emphasis": {
-            "color": "#74ade8ff",
+            "color": "#b4ade8ff",
             "font_style": null,
             "font_weight": null
           },
@@ -265,7 +265,7 @@
             "font_weight": null
           },
           "link_uri": {
-            "color": "#6eb4bfff",
+            "color": "#6ed4bfff",
             "font_style": null,
             "font_weight": null
           },
