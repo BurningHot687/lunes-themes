@@ -58,9 +58,9 @@
         "editor.background": "#161629FF",
         "editor.gutter.background": "#161629FF",
         "editor.subheader.background": "#232341FF",
-        "editor.active_line.background": "#8B80BD2E",
+        "editor.active_line.background": "#808EBD24",
         "editor.highlighted_line.background": "#232341FF",
-        "editor.line_number": "#4E515FFF",
+        "editor.line_number": "#60709FFF",
         "editor.active_line_number": "#AFAFEEFF",
         "editor.hover_line_number": "#acb0b4",
         "editor.invisible": "#878a98ff",
@@ -200,7 +200,7 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#3C6496FF",
+            "color": "#4C74a6FF",
             "font_style": "italic",
             "font_weight": null
           },
@@ -230,7 +230,7 @@
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#bf956aff",
+            "color": "#cfa57aff",
             "font_style": null,
             "font_weight": 700
           },
@@ -375,12 +375,12 @@
             "font_weight": null
           },
           "text.literal": {
-            "color": "#a1c181ff",
+            "color": "#b1d181ff",
             "font_style": null,
             "font_weight": null
           },
           "title": {
-            "color": "#d07277ff",
+            "color": "#E07884ff",
             "font_style": null,
             "font_weight": 400
           },
